@@ -1,6 +1,9 @@
 # Site settings
-title: "sandhu's resume"
-description: "A sandhu's resume template "
+
+title: "gill's resume"
+description: "gill's resume is amazing"
+=======
+
 
 # Build settings
 markdown: kramdown
